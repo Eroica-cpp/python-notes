@@ -13,4 +13,5 @@ sudo apt-get install python-pypdf
 
 Reference
 ---------------
-1. [pyPdf: http://pybrary.net/pyPdf/](http://pybrary.net/pyPdf/)
+1. [pyPdf](http://pybrary.net/pyPdf/)
+2. [Python PDF 文件的读写与处理](http://www.pythonclub.org/python-files/pdf)
